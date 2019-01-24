@@ -1,2 +1,4 @@
-blog_proj/requirements.txt
-Django~=2.1.4
+Django==2.1.4
+django-choices==1.6.1
+pytz==2018.7
+virtualenv==16.1.0
